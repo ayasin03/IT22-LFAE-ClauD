@@ -1,4 +1,9 @@
-# Schwerpunkt Datenbanken - mit ein bisschen Programmierung & Datenstrukturen (2023-Herbst)
+# Anwendungsentwickler
+- Setzt Euch mit den SQL-JOINs auseinander ([[03 - IT22-LFAE-ClauD/LF12/06 - Wiederholung SQL JOIN.excalidraw|06 - Wiederholung SQL JOIN.excalidraw]])
+- Macht die Übungsaufgaben zu SQL und JOIN ([[03 - IT22-LFAE-ClauD/LF12/08 - Übung SQL und JOIN|08 - Übung SQL und JOIN]])
+	- Lösungen findet ihr hier: [[03 - IT22-LFAE-ClauD/LF12/08a - Lösungen SQL und JOIN|08a - Lösungen SQL und JOIN]]
+- Hilfen zum Entity Relationship Model (ERM) findet ihr hier ([[03 - IT22-LFAE-ClauD/LF12/07 - Entity Relationship Modell und Diagramm (ERM und ERD).excalidraw|07 - Entity Relationship Modell und Diagramm (ERM und ERD).excalidraw]])
+# Übungsaufgaben Schwerpunkt Datenbanken - mit ein bisschen Programmierung & Datenstrukturen (2023-Herbst)
 ## Anwendungsentwicklung Teil 1
 ### Aufgabe 3
 * Datenbanken Theorie (LF 5 / LF 8)
