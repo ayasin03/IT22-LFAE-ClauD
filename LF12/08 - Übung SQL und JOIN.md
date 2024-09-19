@@ -55,6 +55,8 @@ Schreiben Sie SQL-Abfragen, um die folgenden Informationen aus der Datenbank abz
 8. **Projekte mit mehr als zwei Mitarbeitern:**
     - Zeigen Sie den Projektnamen und die Anzahl der Mitarbeiter an, die an jedem Projekt arbeiten. Zeigen Sie nur Projekte an, an denen mehr als zwei Mitarbeiter beteiligt sind.
 
+##### Hilfen
+https://www.w3schools.com/sql/default.asp
 #### Hinweise:
 - Verwenden Sie die SQL JOIN-Befehle (INNER JOIN, LEFT JOIN, RIGHT JOIN) entsprechend, um die Tabellen zu verbinden.
 - Berücksichtigen Sie, dass nicht jeder Mitarbeiter an einem Projekt arbeitet und nicht jede Abteilung aktive Projekte haben muss.
