@@ -26,6 +26,10 @@
 	* ein vorgegebenes Problem inkl. Lösung in einen Algorithmus überführen
 	* Umgang mit Datenstrukuren (Array)
 
+==Bis hierhin==
+---
+
+
 ### Aufgabe 3
 * Datenbanken Theorie (LF 5 / LF 8)
 	* Normalformen
