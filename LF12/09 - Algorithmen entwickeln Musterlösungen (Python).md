@@ -1,6 +1,3 @@
----
-{}
----
 # Musterlösung 1:
 
 ``` Python

@@ -1,3 +1,6 @@
+---
+{}
+---
 **Heute steigen wir in die Datenanalyse mit dem Jupyter Notebook ein**
 
 Installiere Dir zunächst Juypiter Notebook, um statistische Verfahre, Visualisierungen usw. direkt ausprobieren zu können:

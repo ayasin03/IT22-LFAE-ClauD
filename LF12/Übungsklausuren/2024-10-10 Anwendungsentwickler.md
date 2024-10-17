@@ -1,6 +1,3 @@
----
-{}
----
 Heute geht es in Richtung Programmierung - wir greifen die Datenbanken (insbesondere SQL) nächste Woche noch einmal vor Ort auf.
 
 Hier ein paar "Fingerübungen":

@@ -1,6 +1,3 @@
----
-{}
----
 %% Begin Waypoint %%
 - [[(OS) Notenliste Rückmeldung Anschreiben f. Chat.docx]]
 - **[[00 - Klausur OS-01]]**
@@ -33,7 +30,7 @@
 	- [[Pasted Image 20230421000233_785.jpg]]
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
-	- [[Unbenannt]]
+	- [[Dr. SozPäd]]
 - [[git-autocommit.sh]]
 - **[[LF10]]**
 	- [[00 - Übersicht über Themen LF10.excalidraw.excalidraw]]
@@ -209,6 +206,8 @@
 			- [[AP2 Sommer 2022 GA1 FA-Anwendungsentwicklung (AO 1997).pdf]]
 			- [[AP2 Sommer 2022 Lösungen.pdf]]
 			- [[eigene-loesungen]]
+		- [[2023-09-14 Übungsaufgaben]]
+		- [[2023-09-14 Übungsaufgaben]]
 		- **[[2023-Herbst]]**
 			- [[2024-09-26 Lösung Aufgabe 3 2023-Herbst Anw T1.excalidraw]]
 			- [[2024-09-26 Lösung Aufgabe 3 2023-Herbst Anw T1.excalidraw.svg]]
@@ -237,6 +236,8 @@
 				- [[Pasted Image 20231130102438_727.png]]
 			- [[Belegsatz Anwendungsentwickler.pdf]]
 			- [[Übungsdatei - IHK-AP2-Klausur1.xlsx]]
+		- [[2024-01-25 & 2024-02-01 Übungsaufgaben]]
+		- [[2024-01-25 & 2024-02-01 Übungsaufgaben]]
 		- [[2024-09-19 Anwendungsentwickler]]
 		- [[2024-09-19 Daten- und Prozessanalysten]]
 		- [[2024-10-10 Anwendungsentwickler]]

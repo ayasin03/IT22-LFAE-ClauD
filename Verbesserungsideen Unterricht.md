@@ -1,6 +1,3 @@
----
-{}
----
 * ~~Dokumentation für das IHK Projekt intensiver besprechen - Vorgaben kommunizieren
 	* ~~Gute Quelle: Stefan Macke (https://it-berufe-podcast.de/)~~
 	* IHK Infos
