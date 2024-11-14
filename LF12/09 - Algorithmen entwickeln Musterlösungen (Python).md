@@ -52,7 +52,7 @@ print(ergebnis)
 
 # Musterlösung 4: 
 
-``` Python
+``` JavaScript
 // Rekursive Version
 function sumOfFirstNRecursive(n) {
   // Basisfall: Wenn n gleich 1 ist, ist die Summe einfach 1
