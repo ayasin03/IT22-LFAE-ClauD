@@ -30,7 +30,7 @@
 	- [[Pasted Image 20230421000233_785.jpg]]
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
-	- [[Dr. SozPäd]]
+	- [[Unbenannt]]
 - [[git-autocommit.sh]]
 - **[[LF10]]**
 	- [[00 - Übersicht über Themen LF10.excalidraw.excalidraw]]
@@ -106,6 +106,8 @@
 	- [[02b - Projektdokumentation nach IHK-Standard.excalidraw]]
 	- [[02b - Projektdokumentation nach IHK-Standard.excalidraw.png]]
 	- [[02b - Projektdokumentation nach IHK-Standard.excalidraw.svg]]
+	- [[02c - Agenda 2024-11-14.excalidraw]]
+	- [[02c - Agenda 2024-11-14.excalidraw.svg]]
 	- **[[03 - Entwicklung eines kleinen Software-Projekts.excalidraw 1.file]]**
 		- [[03 - Entwicklung eines kleinen Software-Projekts.excalidraw]]
 	- [[03 - Entwicklung eines kleinen Software-Projekts.excalidraw.excalidraw]]
@@ -126,6 +128,8 @@
 	- [[08a - JOIN Übung aus IHK Herbst-2023.excalidraw]]
 	- [[08a - JOIN Übung aus IHK Herbst-2023.excalidraw.svg]]
 	- [[08a - Lösungen SQL und JOIN]]
+	- [[08b - Übungen Datenbanknormalisierungen (Lösungen)]]
+	- [[08b - Übungen Datenbanknormalisierungen]]
 	- [[09 - Algorithmen entwickeln Musterlösungen (Python)]]
 	- [[09 - Algorithmen entwickeln]]
 	- [[10 - MergeSort Übungsimplementierung]]
@@ -207,7 +211,6 @@
 			- [[AP2 Sommer 2022 Lösungen.pdf]]
 			- [[eigene-loesungen]]
 		- [[2023-09-14 Übungsaufgaben]]
-		- [[2023-09-14 Übungsaufgaben]]
 		- **[[2023-Herbst]]**
 			- [[2024-09-26 Lösung Aufgabe 3 2023-Herbst Anw T1.excalidraw]]
 			- [[2024-09-26 Lösung Aufgabe 3 2023-Herbst Anw T1.excalidraw.svg]]
@@ -236,7 +239,6 @@
 				- [[Pasted Image 20231130102438_727.png]]
 			- [[Belegsatz Anwendungsentwickler.pdf]]
 			- [[Übungsdatei - IHK-AP2-Klausur1.xlsx]]
-		- [[2024-01-25 & 2024-02-01 Übungsaufgaben]]
 		- [[2024-01-25 & 2024-02-01 Übungsaufgaben]]
 		- [[2024-09-19 Anwendungsentwickler]]
 		- [[2024-09-19 Daten- und Prozessanalysten]]
