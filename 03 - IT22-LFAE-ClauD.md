@@ -30,8 +30,9 @@
 	- [[Pasted Image 20230421000233_785.jpg]]
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
-	- [[Newsletter 2024-12]]
+	- [[Unbenannt]]
 - [[git-autocommit.sh]]
+- [[Klausurthemen IT22]]
 - **[[LF10]]**
 	- [[00 - Übersicht über Themen LF10.excalidraw.excalidraw]]
 	- [[00 - Übersicht über Themen LF10.excalidraw]]
