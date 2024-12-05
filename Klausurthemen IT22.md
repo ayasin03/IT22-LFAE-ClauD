@@ -1,6 +1,5 @@
 # Anwendungsentwickler
 - Projektmanagement: Strukturen von Projektorganisation (basiert auf [[03 - IT22-LFAE-ClauD/LF12/01 - Projektmanagement|01 - Projektmanagement.excalidraw]])
-- Tabellenkalkulationsfunktionen (basiert auf unserem [[03 - IT22-LFAE-ClauD/LF12/05 - Crashkurs Excel.excalidraw|05 - Crashkurs Excel.excalidraw]])
 - Datenbanken
 	- Entity Relationship Models (basiert auf [[03 - IT22-LFAE-ClauD/LF12/07 - Entity Relationship Modell und Diagramm (ERM und ERD).excalidraw|07 - Entity Relationship Modell und Diagramm (ERM und ERD).excalidraw]])
 	- Queries in SQL (inkl. JOINS) (basiert auf [[03 - IT22-LFAE-ClauD/LF12/08 - Übung SQL und JOIN|08 - Übung SQL und JOIN]] und [[03 - IT22-LFAE-ClauD/LF12/08a - Lösungen SQL und JOIN|08a - Lösungen SQL und JOIN]])
@@ -9,7 +8,6 @@
 	- basic datatype quiz ;)
 # Daten- und Prozessanalyst
 - Projektmanagement: Strukturen von Projektorganisation (basiert auf [[03 - IT22-LFAE-ClauD/LF12/01 - Projektmanagement|01 - Projektmanagement.excalidraw]])
-- Tabellenkalkulationsfunktionen (basiert auf unserem [[03 - IT22-LFAE-ClauD/LF12/05 - Crashkurs Excel.excalidraw|05 - Crashkurs Excel.excalidraw]])
 - Datenbanken
 	- Entity Relationship Models (basiert auf [[03 - IT22-LFAE-ClauD/LF12/07 - Entity Relationship Modell und Diagramm (ERM und ERD).excalidraw|07 - Entity Relationship Modell und Diagramm (ERM und ERD).excalidraw]])
 	- Queries in SQL (inkl. JOINS) (basiert auf [[03 - IT22-LFAE-ClauD/LF12/08 - Übung SQL und JOIN|08 - Übung SQL und JOIN]] und [[03 - IT22-LFAE-ClauD/LF12/08a - Lösungen SQL und JOIN|08a - Lösungen SQL und JOIN]])
