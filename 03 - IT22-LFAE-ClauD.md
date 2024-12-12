@@ -1,6 +1,11 @@
 %% Begin Waypoint %%
 - [[(OS) Notenliste Rückmeldung Anschreiben f. Chat.docx]]
 - **[[00 - Klausur OS-01]]**
+	- [[Aufgabe 1 - Projektmanagement & graphische Benutzeroberflächen]]
+	- [[Aufgabe 2 - Entity Relationship Model]]
+	- [[Aufgabe 3 - Datenbanken und SQL]]
+	- [[Aufgabe 4a - Programmierung]]
+	- [[Aufgabe 4d - Grundlagen maschinellen Lernens mit künstlichen neuronalen Netzen]]
 	- [[Korrekturbogen.docx]]
 	- [[Notenspiegel.xlsx]]
 - **[[00 - Selbsteinschätzungen]]**
@@ -118,6 +123,7 @@
 	- [[06 - Wiederholung SQL JOIN.excalidraw.svg]]
 	- [[07 - Entity Relationship Modell und Diagramm (ERM und ERD).excalidraw]]
 	- [[07 - Entity Relationship Modell und Diagramm (ERM und ERD).excalidraw.svg]]
+	- [[07 - Entity Relationship Modell und Diagramm (ERM und ERD)]]
 	- [[08 - Übung SQL und JOIN]]
 	- [[08a - JOIN Übung aus IHK Herbst-2023.excalidraw]]
 	- [[08a - JOIN Übung aus IHK Herbst-2023.excalidraw.svg]]
